@@ -16,6 +16,13 @@
 שם יהיה גם אפשרות לערוך/למחוק את המוצר ישירות מהfirebase 
 ![ONEITEM](https://user-images.githubusercontent.com/117014260/219481698-d56efa7c-e7c7-4bc4-a734-b01d77fa86a4.png)
 
+עריכת המוצר: 
+![EDIT](https://user-images.githubusercontent.com/117014260/219482867-a402d833-6306-4c9b-ae98-8102be3c3222.png)
+
+מחיקת המוצר: 
+![DELETE](https://user-images.githubusercontent.com/117014260/219483085-b15fd9e2-9e5e-4559-a012-6a9cd7d700d5.png)
+
+
 דף הוספת מוצר חדש:
 ישנה אפשרות להוסיף מוצר חדש לfirebase דרך האתר -
 
