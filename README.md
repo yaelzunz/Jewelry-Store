@@ -4,7 +4,7 @@
 דף הבית:
 הדף הראשי שיוצג למשתמש כשהוא נכנס לאתר, בעמוד זה תוצג למשתמש כותרת ותמונה ולחצן למעבר לפריטי המוצרים שבחנות.
 ![](src/HOME.png)
-<img src="/src/HOME.png" alt="Employee data" title="Employee Data title">
+<img src="src/HOME.png" alt="Employee data" title="Employee Data title">
 
 
 דף המוצרים:
