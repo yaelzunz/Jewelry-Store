@@ -18,4 +18,4 @@
 דף הוספת מוצר חדש:
 ישנה אפשרות להוסיף מוצר חדש לfirebase דרך האתר -
 
-![](srC/ADDITEM.png)
+![](src/ADDITEM.png)
