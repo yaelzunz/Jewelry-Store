@@ -20,3 +20,7 @@
 ישנה אפשרות להוסיף מוצר חדש לfirebase דרך האתר -
 
 ![ADDITEM](https://user-images.githubusercontent.com/117014260/219481739-2e61400b-51b6-4b5e-ad7d-430497eb8ef0.png)
+
+יש את החלונית about וconectUs שהוספנו כחלק מהנראות והמקצועיות של האתר
+![CONECTUS](https://user-images.githubusercontent.com/117014260/219482362-4984f3cb-e5e9-45aa-927b-69962fb7fefb.png)
+![ABOUT](https://user-images.githubusercontent.com/117014260/219482372-9811948f-85aa-4fab-8e99-bd8b44c97a65.png)
